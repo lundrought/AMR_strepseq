@@ -1,3 +1,0 @@
-Genome	Species	Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
-SAMN09631762	sanguinis_G	tet(M)	98.59	1920/1920	100.0	1..1920	SAMN09631762.contig00045 len=3150 cov=4.1 corr=0 origname=NODE_46_length_3150_cov_4.059874_pilon sw=shovill-spades/1.1.0 date=20230707	978..2897	Doxycycline, Tetracycline, Minocycline	U58985
-SAMN09631762	sanguinis_G	tet(M)	98.59	1920/1920	100.0	1..1920	SAMN09631762.contig00045 len=3150 cov=4.1 corr=0 origname=NODE_46_length_3150_cov_4.059874_pilon sw=shovill-spades/1.1.0 date=20230707	978..2897	Doxycycline, Tetracycline, Minocycline	X75073
