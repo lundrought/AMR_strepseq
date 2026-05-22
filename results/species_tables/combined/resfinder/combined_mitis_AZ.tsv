@@ -1,0 +1,8 @@
+sample_key	GTDB_214	Sample	Resistance gene	Phenotype	source
+131cm	mitis_AZ	131Cm-CMPN001x37_260114_LH00793_B23GCKKLT3	erm(B)	Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S	rmarvig
+131cm	mitis_AZ	131Cm-CMPN001x37_260114_LH00793_B23GCKKLT3	tet(M)	Doxycycline, Tetracycline, Minocycline	rmarvig
+NA	NA	SAMEA1022828	NA	NA	atb
+NA	NA	SAMEA104055294	NA	NA	atb
+NA	NA	SAMEA110665714	NA	NA	atb
+NA	NA	SAMEA110665718	NA	NA	atb
+NA	NA	SAMEA117078732	NA	NA	atb

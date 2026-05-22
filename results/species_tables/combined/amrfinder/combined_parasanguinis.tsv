@@ -1,0 +1,176 @@
+sample_key	GTDB_214	sample	element_symbol	element_name	source
+116p	parasanguinis	0116p-CMPN001x93_260114_LH00793_B23GCKKLT3	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	rmarvig
+116p	parasanguinis	0116p-CMPN001x93_260114_LH00793_B23GCKKLT3	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	rmarvig
+129p	parasanguinis	0129p-CMPN001x95_260114_LH00793_B23GCKKLT3	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	rmarvig
+129p	parasanguinis	0129p-CMPN001x95_260114_LH00793_B23GCKKLT3	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	rmarvig
+33ap	parasanguinis	033Ap-CMPN001x48_260114_LH00793_B23GCKKLT3	mef(A)	macrolide efflux MFS transporter Mef(A)	rmarvig
+33ap	parasanguinis	033Ap-CMPN001x48_260114_LH00793_B23GCKKLT3	msr(D)	ABC-F type ribosomal protection protein Msr(D)	rmarvig
+33ap	parasanguinis	033Ap-CMPN001x48_260114_LH00793_B23GCKKLT3	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	rmarvig
+33ap	parasanguinis	033Ap-CMPN001x48_260114_LH00793_B23GCKKLT3	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	rmarvig
+39ap	parasanguinis	039Ap-CMPN001x49_260114_LH00793_B23GCKKLT3	mef(A)	macrolide efflux MFS transporter Mef(A)	rmarvig
+39ap	parasanguinis	039Ap-CMPN001x49_260114_LH00793_B23GCKKLT3	msr(D)	ABC-F type ribosomal protection protein Msr(D)	rmarvig
+39ap	parasanguinis	039Ap-CMPN001x49_260114_LH00793_B23GCKKLT3	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	rmarvig
+39ap	parasanguinis	039Ap-CMPN001x49_260114_LH00793_B23GCKKLT3	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	rmarvig
+104ap	parasanguinis	104Ap-CMPN001x55_260114_LH00793_B23GCKKLT3	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	rmarvig
+104ap	parasanguinis	104Ap-CMPN001x55_260114_LH00793_B23GCKKLT3	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	rmarvig
+104ap	parasanguinis	104Ap-CMPN001x55_260114_LH00793_B23GCKKLT3	msr(D)	ABC-F type ribosomal protection protein Msr(D)	rmarvig
+104ap	parasanguinis	104Ap-CMPN001x55_260114_LH00793_B23GCKKLT3	mef(A)	macrolide efflux MFS transporter Mef(A)	rmarvig
+104ap	parasanguinis	104Ap-CMPN001x55_260114_LH00793_B23GCKKLT3	tet(O)	tetracycline resistance ribosomal protection protein Tet(O)	rmarvig
+111ap	parasanguinis	111Ap-CMPN001x58_260114_LH00793_B23GCKKLT3	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	rmarvig
+111ap	parasanguinis	111Ap-CMPN001x58_260114_LH00793_B23GCKKLT3	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	rmarvig
+111ap	parasanguinis	111Ap-CMPN001x58_260114_LH00793_B23GCKKLT3	mef(A)	macrolide efflux MFS transporter Mef(A)	rmarvig
+111ap	parasanguinis	111Ap-CMPN001x58_260114_LH00793_B23GCKKLT3	msr(D)	ABC-F type ribosomal protection protein Msr(D)	rmarvig
+118ap	parasanguinis	118Ap-CMPN001x60_260114_LH00793_B23GCKKLT3	msr(D)	ABC-F type ribosomal protection protein Msr(D)	rmarvig
+118ap	parasanguinis	118Ap-CMPN001x60_260114_LH00793_B23GCKKLT3	mef(A)	macrolide efflux MFS transporter Mef(A)	rmarvig
+118ap	parasanguinis	118Ap-CMPN001x60_260114_LH00793_B23GCKKLT3	tet(M)	tetracycline resistance ribosomal protection protein Tet(M)	rmarvig
+118ap	parasanguinis	118Ap-CMPN001x60_260114_LH00793_B23GCKKLT3	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	rmarvig
+118ap	parasanguinis	118Ap-CMPN001x60_260114_LH00793_B23GCKKLT3	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	rmarvig
+118pp	parasanguinis	118Pp-CMPN001x46_260114_LH00793_B23GCKKLT3	mef(A)	macrolide efflux MFS transporter Mef(A)	rmarvig
+118pp	parasanguinis	118Pp-CMPN001x46_260114_LH00793_B23GCKKLT3	msr(D)	ABC-F type ribosomal protection protein Msr(D)	rmarvig
+118pp	parasanguinis	118Pp-CMPN001x46_260114_LH00793_B23GCKKLT3	tet(M)	tetracycline resistance ribosomal protection protein Tet(M)	rmarvig
+118pp	parasanguinis	118Pp-CMPN001x46_260114_LH00793_B23GCKKLT3	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	rmarvig
+118pp	parasanguinis	118Pp-CMPN001x46_260114_LH00793_B23GCKKLT3	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	rmarvig
+124ap	parasanguinis	124Ap-CMPN001x61_260114_LH00793_B23GCKKLT3	mef(A)	macrolide efflux MFS transporter Mef(A)	rmarvig
+124ap	parasanguinis	124Ap-CMPN001x61_260114_LH00793_B23GCKKLT3	msr(D)	ABC-F type ribosomal protection protein Msr(D)	rmarvig
+124ap	parasanguinis	124Ap-CMPN001x61_260114_LH00793_B23GCKKLT3	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	rmarvig
+124ap	parasanguinis	124Ap-CMPN001x61_260114_LH00793_B23GCKKLT3	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	rmarvig
+150cp	parasanguinis	150Cp-CMPN001x74_260114_LH00793_B23GCKKLT3	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	rmarvig
+150cp	parasanguinis	150Cp-CMPN001x74_260114_LH00793_B23GCKKLT3	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	rmarvig
+150cp	parasanguinis	150Cp-CMPN001x74_260114_LH00793_B23GCKKLT3	tet(M)	tetracycline resistance ribosomal protection protein Tet(M)	rmarvig
+150cp	parasanguinis	150Cp-CMPN001x74_260114_LH00793_B23GCKKLT3	erm(B)	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)	rmarvig
+NA	NA	SAMEA104138650	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA104138650	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA104138654	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA104138654	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA104138659	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA104138659	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA104138660	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA104138660	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA114309588	lsa(C)	ABC-F type ribosomal protection protein Lsa(C)	atb
+NA	NA	SAMEA114309588	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA114309588	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA114313405	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA114313405	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA114631783	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA114631783	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA115092497	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA115092497	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA115092759	lsa(C)	ABC-F type ribosomal protection protein Lsa(C)	atb
+NA	NA	SAMEA115092759	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA115092759	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA2342815	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA2342815	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA2393084	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA2393084	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA2674797	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA2674797	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA3882095	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA3882095	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA4362445	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA4362445	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA4362453	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA4362453	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA4362471	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA4362471	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA4362475	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA4362475	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA4362493	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA4362493	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA4362507	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA4362507	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA4555989	tet(M)	tetracycline resistance ribosomal protection protein Tet(M)	atb
+NA	NA	SAMEA4555989	erm(B)	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)	atb
+NA	NA	SAMEA4555989	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA4555989	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA5379086	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA5379086	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA5379087	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA5379087	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA5390758	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA5390758	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA5390759	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA5390759	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA5390763	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA5390763	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA5390765	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA5390765	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA5390766	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA5390766	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA5390767	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA5390767	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA5390776	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA5390776	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA5390782	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA5390782	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA5390785	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA5390785	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA5390798	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA5390798	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA5390802	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA5390802	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA5390817	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA5390817	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA5390819	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA5390819	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA5390822	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA5390822	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA5390835	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA5390835	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA5390846	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA5390846	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA5390849	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA5390849	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA6160296	lsa(C)	ABC-F type ribosomal protection protein Lsa(C)	atb
+NA	NA	SAMEA6160296	msr(D)	ABC-F type ribosomal protection protein Msr(D)	atb
+NA	NA	SAMEA6160296	mef(A)	macrolide efflux MFS transporter Mef(A)	atb
+NA	NA	SAMEA6160296	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMEA6160296	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA9581521	tet(M)	tetracycline resistance ribosomal protection protein Tet(M)	atb
+NA	NA	SAMEA9581521	msr(D)	ABC-F type ribosomal protection protein Msr(D)	atb
+NA	NA	SAMEA9581521	mef(A)	macrolide efflux MFS transporter Mef(A)	atb
+NA	NA	SAMEA9581521	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMEA9581521	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMN00761820	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMN00761820	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMN03197535	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMN03197535	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMN03197535	tet(M)	tetracycline resistance ribosomal protection protein Tet(M)	atb
+NA	NA	SAMN03197535	msr(D)	ABC-F type ribosomal protection protein Msr(D)	atb
+NA	NA	SAMN03197535	mef(A)	macrolide efflux MFS transporter Mef(A)	atb
+NA	NA	SAMN03197643	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMN03197643	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMN03197643	mef(A)	macrolide efflux MFS transporter Mef(A)	atb
+NA	NA	SAMN03197643	msr(D)	ABC-F type ribosomal protection protein Msr(D)	atb
+NA	NA	SAMN03197975	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMN03197975	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMN19353788	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMN19353788	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMN19353788	mef(A)	macrolide efflux MFS transporter Mef(A)	atb
+NA	NA	SAMN19353788	msr(D)	ABC-F type ribosomal protection protein Msr(D)	atb
+NA	NA	SAMN19353788	lsa	Lsa family ABC-F type ribosomal protection protein	atb
+NA	NA	SAMN19353788	tet(O)	tetracycline resistance ribosomal protection protein Tet(O)	atb
+NA	NA	SAMN41327468	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMN41327468	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMN41328995	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMN41328995	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMN41336162	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMN41336162	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMN41336162	tet(M)	tetracycline resistance ribosomal protection protein Tet(M)	atb
+NA	NA	SAMN41336162	mef(A)	macrolide efflux MFS transporter Mef(A)	atb
+NA	NA	SAMN41336162	msr(D)	ABC-F type ribosomal protection protein Msr(D)	atb
+NA	NA	SAMN41336162	lsa(C)	ABC-F type ribosomal protection protein Lsa(C)	atb
+NA	NA	SAMN41594588	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMN41594588	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMN41594588	mef(A)	macrolide efflux MFS transporter Mef(A)	atb
+NA	NA	SAMN41594588	msr(D)	ABC-F type ribosomal protection protein Msr(D)	atb
+NA	NA	SAMN41594588	tet(M)	tetracycline resistance ribosomal protection protein Tet(M)	atb
+NA	NA	SAMN41594589	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMN41594589	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMN41594589	mef(A)	macrolide efflux MFS transporter Mef(A)	atb
+NA	NA	SAMN41594589	msr(D)	ABC-F type ribosomal protection protein Msr(D)	atb
+NA	NA	SAMN41594589	tet(M)	tetracycline resistance ribosomal protection protein Tet(M)	atb
+NA	NA	SAMN41594590	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMN41594590	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMN41594590	msr(D)	ABC-F type ribosomal protection protein Msr(D)	atb
+NA	NA	SAMN41594590	mef(A)	macrolide efflux MFS transporter Mef(A)	atb
+NA	NA	SAMN41594590	tet(M)	tetracycline resistance ribosomal protection protein Tet(M)	atb

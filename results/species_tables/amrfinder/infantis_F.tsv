@@ -1,0 +1,7 @@
+sample_key	GTDB_214	sample	element_symbol	element_name
+110am	infantis_F	110Am-CMPN001x56_260114_LH00793_B23GCKKLT3	mef(A)	macrolide efflux MFS transporter Mef(A)
+110am	infantis_F	110Am-CMPN001x56_260114_LH00793_B23GCKKLT3	msr(D)	ABC-F type ribosomal protection protein Msr(D)
+118pim	infantis_F	118Pim-CMPN001x45_260114_LH00793_B23GCKKLT3	mef(A)	macrolide efflux MFS transporter Mef(A)
+118pim	infantis_F	118Pim-CMPN001x45_260114_LH00793_B23GCKKLT3	msr(D)	ABC-F type ribosomal protection protein Msr(D)
+118pim	infantis_F	118Pim-CMPN001x45_260114_LH00793_B23GCKKLT3	tet(M)	tetracycline resistance ribosomal protection protein Tet(M)
+118pim	infantis_F	118Pim-CMPN001x45_260114_LH00793_B23GCKKLT3	erm(B)	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)

@@ -1,0 +1,7 @@
+sample_key	GTDB_214	Sample	Resistance gene	Phenotype
+110cm	sp001808705	110Cm-CMPN001x27_260114_LH00793_B23GCKKLT3	lsa(C)	Lincomycin, Clindamycin, Dalfopristin, Pristinamycin IIA, Virginiamycin M, Tiamulin
+110cm	sp001808705	110Cm-CMPN001x27_260114_LH00793_B23GCKKLT3	msr(D)	Erythromycin, Azithromycin, Telithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S
+110cm	sp001808705	110Cm-CMPN001x27_260114_LH00793_B23GCKKLT3	mef(A)	Erythromycin, Azithromycin
+110cm	sp001808705	110Cm-CMPN001x27_260114_LH00793_B23GCKKLT3	erm(B)	Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S
+110cm	sp001808705	110Cm-CMPN001x27_260114_LH00793_B23GCKKLT3	erm(B)	Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S
+110cm	sp001808705	110Cm-CMPN001x27_260114_LH00793_B23GCKKLT3	tet(M)	Doxycycline, Tetracycline, Minocycline

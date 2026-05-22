@@ -1,0 +1,24 @@
+sample_key	GTDB_214	sample	element_symbol	element_name	source
+148cm	oralis_T	148Cm-CMPN001x70_260114_LH00793_B23GCKKLT3	erm(B)	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)	rmarvig
+148cm	oralis_T	148Cm-CMPN001x70_260114_LH00793_B23GCKKLT3	tet(M)	tetracycline resistance ribosomal protection protein Tet(M)	rmarvig
+151cm	oralis_T	151Cm-CMPN001x75_260114_LH00793_B23GCKKLT3	tet(M)	tetracycline resistance ribosomal protection protein Tet(M)	rmarvig
+151cm	oralis_T	151Cm-CMPN001x75_260114_LH00793_B23GCKKLT3	erm(B)	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)	rmarvig
+NA	NA	SAMEA103953726	mef(A)	macrolide efflux MFS transporter Mef(A)	atb
+NA	NA	SAMEA103953726	msr(D)	ABC-F type ribosomal protection protein Msr(D)	atb
+NA	NA	SAMEA2051869	tet(32)	tetracycline resistance ribosomal protection protein Tet(32)	atb
+NA	NA	SAMEA2051869	msr(D)	ABC-F type ribosomal protection protein Msr(D)	atb
+NA	NA	SAMEA2051869	mef(A)	macrolide efflux MFS transporter Mef(A)	atb
+NA	NA	SAMEA3173071	tet(M)	tetracycline resistance ribosomal protection protein Tet(M)	atb
+NA	NA	SAMEA6507098	msr(D)	ABC-F type ribosomal protection protein Msr(D)	atb
+NA	NA	SAMEA6507098	mef(A)	macrolide efflux MFS transporter Mef(A)	atb
+NA	NA	SAMEA6507100	mef(A)	macrolide efflux MFS transporter Mef(A)	atb
+NA	NA	SAMEA6507100	msr(D)	ABC-F type ribosomal protection protein Msr(D)	atb
+NA	NA	SAMEA6507101	mef(A)	macrolide efflux MFS transporter Mef(A)	atb
+NA	NA	SAMEA6507101	msr(D)	ABC-F type ribosomal protection protein Msr(D)	atb
+NA	NA	SAMEA115377122	NA	NA	atb
+NA	NA	SAMEA117078762	NA	NA	atb
+NA	NA	SAMEA117078763	NA	NA	atb
+NA	NA	SAMEA117078781	NA	NA	atb
+NA	NA	SAMEA117078782	NA	NA	atb
+NA	NA	SAMN16913245	NA	NA	atb
+NA	NA	SAMN31202317	NA	NA	atb

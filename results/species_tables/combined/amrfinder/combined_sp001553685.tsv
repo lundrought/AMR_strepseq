@@ -1,0 +1,16 @@
+sample_key	GTDB_214	sample	element_symbol	element_name	source
+76m	sp001553685	0076m-CMPN001x85_260114_LH00793_B23GCKKLT3	msr(D)	ABC-F type ribosomal protection protein Msr(D)	rmarvig
+76m	sp001553685	0076m-CMPN001x85_260114_LH00793_B23GCKKLT3	mef(A)	macrolide efflux MFS transporter Mef(A)	rmarvig
+90am	sp001553685	90am	NA	NA	rmarvig
+90pim	sp001553685	90pim	NA	NA	rmarvig
+NA	NA	SAMEA110129251	tet(32)	tetracycline resistance ribosomal protection protein Tet(32)	atb
+NA	NA	SAMEA1886111	mef(A)	macrolide efflux MFS transporter Mef(A)	atb
+NA	NA	SAMEA1886111	msr(D)	ABC-F type ribosomal protection protein Msr(D)	atb
+NA	NA	SAMEA1886111	tet(M)	tetracycline resistance ribosomal protection protein Tet(M)	atb
+NA	NA	SAMN04477560	lsa(C)	ABC-F type ribosomal protection protein Lsa(C)	atb
+NA	NA	SAMN04477560	tet(M)	tetracycline resistance ribosomal protection protein Tet(M)	atb
+NA	NA	SAMN04477560	mef(A)	macrolide efflux MFS transporter Mef(A)	atb
+NA	NA	SAMN04477560	msr(D)	ABC-F type ribosomal protection protein Msr(D)	atb
+NA	NA	SAMN16913260	mef(A)	macrolide efflux MFS transporter Mef(A)	atb
+NA	NA	SAMN16913260	msr(D)	ABC-F type ribosomal protection protein Msr(D)	atb
+NA	NA	SAMEA104113802	NA	NA	atb

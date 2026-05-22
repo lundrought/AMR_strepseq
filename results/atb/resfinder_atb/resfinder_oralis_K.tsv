@@ -1,0 +1,2 @@
+Genome	Species	Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+SAMEA5083132	oralis_K	tet(32)	100.00	1920/1920	100.0	1..1920	SAMEA5083132.contig00002 len=193773 cov=33.9 corr=0 origname=NODE_2_length_193773_cov_33.851716_pilon sw=shovill-spades/1.1.0 date=20230704	63489..65408	Doxycycline, Tetracycline, Minocycline	EU722333

@@ -1,0 +1,72 @@
+sample_key	GTDB_214	Sample	Resistance gene	Phenotype	source
+92cs	sanguinis	092Cs-CMPN001x14_260114_LH00793_B23GCKKLT3	msr(D)	Erythromycin, Azithromycin, Telithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S	rmarvig
+92cs	sanguinis	092Cs-CMPN001x14_260114_LH00793_B23GCKKLT3	mef(A)	Erythromycin, Azithromycin	rmarvig
+92cs	sanguinis	092Cs-CMPN001x14_260114_LH00793_B23GCKKLT3	erm(B)	Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S	rmarvig
+92cs	sanguinis	092Cs-CMPN001x14_260114_LH00793_B23GCKKLT3	tet(M)	Doxycycline, Tetracycline, Minocycline	rmarvig
+111ps	sanguinis	111ps	NA	NA	rmarvig
+120cs	sanguinis	120Cs-CMPN001x32_260114_LH00793_B23GCKKLT3	erm(B)	Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S	rmarvig
+120cs	sanguinis	120Cs-CMPN001x32_260114_LH00793_B23GCKKLT3	tet(M)	Doxycycline, Tetracycline, Minocycline	rmarvig
+129cs	sanguinis	129Cs-CMPN001x36_260114_LH00793_B23GCKKLT3	erm(B)	Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S	rmarvig
+129cs	sanguinis	129Cs-CMPN001x36_260114_LH00793_B23GCKKLT3	tet(M)	Doxycycline, Tetracycline, Minocycline	rmarvig
+NA	NA	SAMEA104055231	tet(M)	Doxycycline, Tetracycline, Minocycline	atb
+NA	NA	SAMEA104055232	tet(M)	Doxycycline, Tetracycline, Minocycline	atb
+NA	NA	SAMEA104138645	tet(M)	Doxycycline, Tetracycline, Minocycline	atb
+NA	NA	SAMEA111504673	msr(D)	Erythromycin, Azithromycin, Telithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S	atb
+NA	NA	SAMEA111504673	mef(A)	Erythromycin, Azithromycin	atb
+NA	NA	SAMEA114552321	tet(M)	Doxycycline, Tetracycline, Minocycline	atb
+NA	NA	SAMEA4555988	msr(D)	Erythromycin, Azithromycin, Telithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S	atb
+NA	NA	SAMEA4555988	mef(A)	Erythromycin, Azithromycin	atb
+NA	NA	SAMEA5192272	erm(B)	Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S	atb
+NA	NA	SAMEA5192272	tet(M)	Doxycycline, Tetracycline, Minocycline	atb
+NA	NA	SAMEA5192274	tet(M)	Doxycycline, Tetracycline, Minocycline	atb
+NA	NA	SAMEA5979909	erm(B)	Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S	atb
+NA	NA	SAMEA5979909	tet(M)	Doxycycline, Tetracycline, Minocycline	atb
+NA	NA	SAMN00828791	tet(M)	Doxycycline, Tetracycline, Minocycline	atb
+NA	NA	SAMN01162043	erm(B)	Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S	atb
+NA	NA	SAMN01162043	tet(M)	Doxycycline, Tetracycline, Minocycline	atb
+NA	NA	SAMN09631753	msr(D)	Erythromycin, Azithromycin, Telithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S	atb
+NA	NA	SAMN09631753	mef(A)	Erythromycin, Azithromycin	atb
+NA	NA	SAMN09631761	msr(D)	Erythromycin, Azithromycin, Telithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S	atb
+NA	NA	SAMN09631761	mef(A)	Erythromycin, Azithromycin	atb
+NA	NA	SAMN09631765	msr(D)	Erythromycin, Azithromycin, Telithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S	atb
+NA	NA	SAMN09631765	mef(A)	Erythromycin, Azithromycin	atb
+NA	NA	SAMN09631767	msr(D)	Erythromycin, Azithromycin, Telithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S	atb
+NA	NA	SAMN09631767	mef(A)	Erythromycin, Azithromycin	atb
+NA	NA	SAMN09631771	tet(M)	Doxycycline, Tetracycline, Minocycline	atb
+NA	NA	SAMN09631772	msr(D)	Erythromycin, Azithromycin, Telithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S	atb
+NA	NA	SAMN09631772	mef(A)	Erythromycin, Azithromycin	atb
+NA	NA	SAMN09631773	msr(D)	Erythromycin, Azithromycin, Telithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S	atb
+NA	NA	SAMN09631773	mef(A)	Erythromycin, Azithromycin	atb
+NA	NA	SAMN10478698	erm(B)	Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S	atb
+NA	NA	SAMN10478698	tet(M)	Doxycycline, Tetracycline, Minocycline	atb
+NA	NA	SAMN20399954	erm(B)	Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S	atb
+NA	NA	SAMN20399954	tet(M)	Doxycycline, Tetracycline, Minocycline	atb
+NA	NA	SAMN20399955	erm(B)	Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S	atb
+NA	NA	SAMN20399955	tet(M)	Doxycycline, Tetracycline, Minocycline	atb
+NA	NA	SAMN20399957	tet(M)	Doxycycline, Tetracycline, Minocycline	atb
+NA	NA	SAMEA104055247	NA	NA	atb
+NA	NA	SAMEA104138644	NA	NA	atb
+NA	NA	SAMEA104138646	NA	NA	atb
+NA	NA	SAMEA112750618	NA	NA	atb
+NA	NA	SAMEA115092472	NA	NA	atb
+NA	NA	SAMEA117660697	NA	NA	atb
+NA	NA	SAMEA3882109	NA	NA	atb
+NA	NA	SAMEA4928789	NA	NA	atb
+NA	NA	SAMEA5192267	NA	NA	atb
+NA	NA	SAMEA5192268	NA	NA	atb
+NA	NA	SAMEA5192270	NA	NA	atb
+NA	NA	SAMEA5192271	NA	NA	atb
+NA	NA	SAMEA5192273	NA	NA	atb
+NA	NA	SAMEA5192276	NA	NA	atb
+NA	NA	SAMEA5192280	NA	NA	atb
+NA	NA	SAMEA5192281	NA	NA	atb
+NA	NA	SAMEA5192282	NA	NA	atb
+NA	NA	SAMEA5192283	NA	NA	atb
+NA	NA	SAMEA9956662	NA	NA	atb
+NA	NA	SAMN03197408	NA	NA	atb
+NA	NA	SAMN09631770	NA	NA	atb
+NA	NA	SAMN09631784	NA	NA	atb
+NA	NA	SAMN20399946	NA	NA	atb
+NA	NA	SAMN20399956	NA	NA	atb
+NA	NA	SAMN20399962	NA	NA	atb
+NA	NA	SAMN26876568	NA	NA	atb

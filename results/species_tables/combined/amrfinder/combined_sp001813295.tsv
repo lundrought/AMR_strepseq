@@ -1,0 +1,9 @@
+sample_key	GTDB_214	sample	element_symbol	element_name	source
+141ap	sp001813295	141Ap-CMPN001x66_260114_LH00793_B23GCKKLT3	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	rmarvig
+141ap	sp001813295	141Ap-CMPN001x66_260114_LH00793_B23GCKKLT3	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	rmarvig
+141ap	sp001813295	141Ap-CMPN001x66_260114_LH00793_B23GCKKLT3	tet(M)	tetracycline resistance ribosomal protection protein Tet(M)	rmarvig
+141ap	sp001813295	141Ap-CMPN001x66_260114_LH00793_B23GCKKLT3	erm(B)	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)	rmarvig
+NA	NA	SAMN04480066	tetB(46)	tetracycline efflux ABC transporter Tet(46) subunit B	atb
+NA	NA	SAMN04480066	tetA(46)	tetracycline efflux ABC transporter Tet(46) subunit A	atb
+NA	NA	SAMN04480066	erm(B)	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)	atb
+NA	NA	SAMN04480066	tet(M)	tetracycline resistance ribosomal protection protein Tet(M)	atb

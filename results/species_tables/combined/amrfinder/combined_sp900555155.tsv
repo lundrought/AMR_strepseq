@@ -1,0 +1,4 @@
+sample_key	GTDB_214	sample	element_symbol	element_name	source
+48m	sp900555155	0048m-CMPN001x79_260114_LH00793_B23GCKKLT3	mef(A)	macrolide efflux MFS transporter Mef(A)	rmarvig
+48m	sp900555155	0048m-CMPN001x79_260114_LH00793_B23GCKKLT3	msr(D)	ABC-F type ribosomal protection protein Msr(D)	rmarvig
+NA	NA	SAMEA104055233	tet(M)	tetracycline resistance ribosomal protection protein Tet(M)	atb

@@ -1,0 +1,16 @@
+sample_key	GTDB_214	Sample	Resistance gene	Phenotype	source
+76m	sp001553685	0076m-CMPN001x85_260114_LH00793_B23GCKKLT3	msr(D)	Erythromycin, Azithromycin, Telithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S	rmarvig
+76m	sp001553685	0076m-CMPN001x85_260114_LH00793_B23GCKKLT3	mef(A)	Erythromycin, Azithromycin	rmarvig
+90am	sp001553685	90am	NA	NA	rmarvig
+90pim	sp001553685	90pim	NA	NA	rmarvig
+NA	NA	SAMEA110129251	tet(32)	Doxycycline, Tetracycline, Minocycline	atb
+NA	NA	SAMEA1886111	msr(D)	Erythromycin, Azithromycin, Telithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S	atb
+NA	NA	SAMEA1886111	mef(A)	Erythromycin, Azithromycin	atb
+NA	NA	SAMEA1886111	tet(M)	Doxycycline, Tetracycline, Minocycline	atb
+NA	NA	SAMN04477560	lsa(C)	Lincomycin, Clindamycin, Dalfopristin, Pristinamycin IIA, Virginiamycin M, Tiamulin	atb
+NA	NA	SAMN04477560	msr(D)	Erythromycin, Azithromycin, Telithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S	atb
+NA	NA	SAMN04477560	mef(A)	Erythromycin, Azithromycin	atb
+NA	NA	SAMN04477560	tet(M)	Doxycycline, Tetracycline, Minocycline	atb
+NA	NA	SAMN16913260	msr(D)	Erythromycin, Azithromycin, Telithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S	atb
+NA	NA	SAMN16913260	mef(A)	Erythromycin, Azithromycin	atb
+NA	NA	SAMEA104113802	NA	NA	atb

@@ -1,0 +1,9 @@
+sample_key	GTDB_214	Sample	Resistance gene	Phenotype	source
+141ap	sp001813295	141Ap-CMPN001x66_260114_LH00793_B23GCKKLT3	erm(B)	Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S	rmarvig
+141ap	sp001813295	141Ap-CMPN001x66_260114_LH00793_B23GCKKLT3	tetA(46)	Doxycycline, Tetracycline, Tigecycline	rmarvig
+141ap	sp001813295	141Ap-CMPN001x66_260114_LH00793_B23GCKKLT3	tetB(46)	Doxycycline, Tetracycline, Tigecycline	rmarvig
+141ap	sp001813295	141Ap-CMPN001x66_260114_LH00793_B23GCKKLT3	tet(M)	Doxycycline, Tetracycline, Minocycline	rmarvig
+NA	NA	SAMN04480066	erm(B)	Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S	atb
+NA	NA	SAMN04480066	tetA(46)	Doxycycline, Tetracycline, Tigecycline	atb
+NA	NA	SAMN04480066	tetB(46)	Doxycycline, Tetracycline, Tigecycline	atb
+NA	NA	SAMN04480066	tet(M)	Doxycycline, Tetracycline, Minocycline	atb

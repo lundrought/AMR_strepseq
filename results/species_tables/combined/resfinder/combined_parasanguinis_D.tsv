@@ -1,0 +1,45 @@
+sample_key	GTDB_214	Sample	Resistance gene	Phenotype	source
+123pp	parasanguinis_D	123Pp-CMPN001x47_260114_LH00793_B23GCKKLT3	tetA(46)	Doxycycline, Tetracycline, Tigecycline	rmarvig
+123pp	parasanguinis_D	123Pp-CMPN001x47_260114_LH00793_B23GCKKLT3	tetB(46)	Doxycycline, Tetracycline, Tigecycline	rmarvig
+160ap	parasanguinis_D	160Ap-CMPN001x77_260114_LH00793_B23GCKKLT3	msr(D)	Erythromycin, Azithromycin, Telithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S	rmarvig
+160ap	parasanguinis_D	160Ap-CMPN001x77_260114_LH00793_B23GCKKLT3	mef(A)	Erythromycin, Azithromycin	rmarvig
+160ap	parasanguinis_D	160Ap-CMPN001x77_260114_LH00793_B23GCKKLT3	tetA(46)	Doxycycline, Tetracycline, Tigecycline	rmarvig
+160ap	parasanguinis_D	160Ap-CMPN001x77_260114_LH00793_B23GCKKLT3	tetB(46)	Doxycycline, Tetracycline, Tigecycline	rmarvig
+NA	NA	SAMEA104138666	tetA(46)	Doxycycline, Tetracycline, Tigecycline	atb
+NA	NA	SAMEA104138666	tetB(46)	Doxycycline, Tetracycline, Tigecycline	atb
+NA	NA	SAMEA111346985	msr(D)	Erythromycin, Azithromycin, Telithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S	atb
+NA	NA	SAMEA111346985	mef(A)	Erythromycin, Azithromycin	atb
+NA	NA	SAMEA111346985	tetA(46)	Doxycycline, Tetracycline, Tigecycline	atb
+NA	NA	SAMEA111346985	tetB(46)	Doxycycline, Tetracycline, Tigecycline	atb
+NA	NA	SAMEA111347020	msr(D)	Erythromycin, Azithromycin, Telithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S	atb
+NA	NA	SAMEA111347020	mef(A)	Erythromycin, Azithromycin	atb
+NA	NA	SAMEA111347020	tetA(46)	Doxycycline, Tetracycline, Tigecycline	atb
+NA	NA	SAMEA111347020	tetB(46)	Doxycycline, Tetracycline, Tigecycline	atb
+NA	NA	SAMEA111347059	msr(D)	Erythromycin, Azithromycin, Telithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S	atb
+NA	NA	SAMEA111347059	mef(A)	Erythromycin, Azithromycin	atb
+NA	NA	SAMEA111347059	tetA(46)	Doxycycline, Tetracycline, Tigecycline	atb
+NA	NA	SAMEA111347059	tetB(46)	Doxycycline, Tetracycline, Tigecycline	atb
+NA	NA	SAMEA114321098	tetA(46)	Doxycycline, Tetracycline, Tigecycline	atb
+NA	NA	SAMEA114321098	tetB(46)	Doxycycline, Tetracycline, Tigecycline	atb
+NA	NA	SAMEA2335678	msr(D)	Erythromycin, Azithromycin, Telithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S	atb
+NA	NA	SAMEA2335678	mef(A)	Erythromycin, Azithromycin	atb
+NA	NA	SAMEA2335678	tetA(46)	Doxycycline, Tetracycline, Tigecycline	atb
+NA	NA	SAMEA2335678	tetB(46)	Doxycycline, Tetracycline, Tigecycline	atb
+NA	NA	SAMEA2335678	tet(M)	Doxycycline, Tetracycline, Minocycline	atb
+NA	NA	SAMEA5390890	tetA(46)	Doxycycline, Tetracycline, Tigecycline	atb
+NA	NA	SAMEA5390890	tetB(46)	Doxycycline, Tetracycline, Tigecycline	atb
+NA	NA	SAMEA5390893	tetA(46)	Doxycycline, Tetracycline, Tigecycline	atb
+NA	NA	SAMEA5390893	tetB(46)	Doxycycline, Tetracycline, Tigecycline	atb
+NA	NA	SAMEA5390905	tetA(46)	Doxycycline, Tetracycline, Tigecycline	atb
+NA	NA	SAMEA5390905	tetB(46)	Doxycycline, Tetracycline, Tigecycline	atb
+NA	NA	SAMN03197706	tetA(46)	Doxycycline, Tetracycline, Tigecycline	atb
+NA	NA	SAMN03197706	tetB(46)	Doxycycline, Tetracycline, Tigecycline	atb
+NA	NA	SAMN03197706	tet(O)	Doxycycline, Tetracycline, Minocycline	atb
+NA	NA	SAMN04477645	msr(D)	Erythromycin, Azithromycin, Telithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S	atb
+NA	NA	SAMN04477645	mef(A)	Erythromycin, Azithromycin	atb
+NA	NA	SAMN04477645	tetA(46)	Doxycycline, Tetracycline, Tigecycline	atb
+NA	NA	SAMN04477645	tetB(46)	Doxycycline, Tetracycline, Tigecycline	atb
+NA	NA	SAMN11849391	msr(D)	Erythromycin, Azithromycin, Telithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S	atb
+NA	NA	SAMN11849391	mef(A)	Erythromycin, Azithromycin	atb
+NA	NA	SAMN11849391	tetA(46)	Doxycycline, Tetracycline, Tigecycline	atb
+NA	NA	SAMN11849391	tetB(46)	Doxycycline, Tetracycline, Tigecycline	atb

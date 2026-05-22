@@ -1,0 +1,5 @@
+sample_key	GTDB_214	Sample	Resistance gene	Phenotype
+129a	anginosus	129a	NA	NA
+70ca	anginosus	070Ca-CMPN001x08_260114_LH00793_B23GCKKLT3	erm(B)	Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S
+70ca	anginosus	070Ca-CMPN001x08_260114_LH00793_B23GCKKLT3	tet(W)	Doxycycline, Tetracycline, Minocycline
+70ca	anginosus	070Ca-CMPN001x08_260114_LH00793_B23GCKKLT3	tet(M)	Doxycycline, Tetracycline, Minocycline

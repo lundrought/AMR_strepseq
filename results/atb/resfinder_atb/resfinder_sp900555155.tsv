@@ -1,0 +1,2 @@
+Genome	Species	Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+SAMEA104055233	sp900555155	tet(M)	99.84	1920/1920	100.0	1..1920	SAMEA104055233.contig00002 len=518143 cov=41.5 corr=0 origname=NODE_2_length_518143_cov_41.531593_pilon sw=shovill-spades/1.0.4 date=20181221	218237..220156	Doxycycline, Tetracycline, Minocycline	X92947

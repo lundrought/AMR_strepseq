@@ -1,0 +1,10 @@
+sample_key	GTDB_214	Sample	Resistance gene	Phenotype
+79ps	sp001556435	079Ps-CMPN001x41_260114_LH00793_B23GCKKLT3	msr(D)	Erythromycin, Azithromycin, Telithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S
+79ps	sp001556435	079Ps-CMPN001x41_260114_LH00793_B23GCKKLT3	mef(A)	Erythromycin, Azithromycin
+132cs	sp001556435	132Cs-CMPN001x38_260114_LH00793_B23GCKKLT3	lsa(C)	Lincomycin, Clindamycin, Dalfopristin, Pristinamycin IIA, Virginiamycin M, Tiamulin
+132cs	sp001556435	132Cs-CMPN001x38_260114_LH00793_B23GCKKLT3	erm(B)	Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S
+132cs	sp001556435	132Cs-CMPN001x38_260114_LH00793_B23GCKKLT3	tet(M)	Doxycycline, Tetracycline, Minocycline
+91csv	sp001556435	91Csv-CMPN001x13_260114_LH00793_B23GCKKLT3	msr(D)	Erythromycin, Azithromycin, Telithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S
+91csv	sp001556435	91Csv-CMPN001x13_260114_LH00793_B23GCKKLT3	mef(A)	Erythromycin, Azithromycin
+91csv	sp001556435	91Csv-CMPN001x13_260114_LH00793_B23GCKKLT3	erm(B)	Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S
+91csv	sp001556435	91Csv-CMPN001x13_260114_LH00793_B23GCKKLT3	tet(M)	Doxycycline, Tetracycline, Minocycline

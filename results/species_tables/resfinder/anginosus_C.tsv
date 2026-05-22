@@ -1,0 +1,12 @@
+sample_key	GTDB_214	Sample	Resistance gene	Phenotype
+52a	anginosus_C	52a	NA	NA
+62ca	anginosus_C	062Ca-CMPN001x06_260114_LH00793_B23GCKKLT3	erm(B)	Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S
+74ca	anginosus_C	074Ca-CMPN001x09_260114_LH00793_B23GCKKLT3	erm(B)	Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S
+74ca	anginosus_C	074Ca-CMPN001x09_260114_LH00793_B23GCKKLT3	tet(M)	Doxycycline, Tetracycline, Minocycline
+110ca	anginosus_C	110Ca-CMPN001x26_260114_LH00793_B23GCKKLT3	erm(B)	Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S
+110ca	anginosus_C	110Ca-CMPN001x26_260114_LH00793_B23GCKKLT3	tet(M)	Doxycycline, Tetracycline, Minocycline
+131ca	anginosus_C	131Ca-CMPN001x63_260114_LH00793_B23GCKKLT3	erm(B)	Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S
+131ca	anginosus_C	131Ca-CMPN001x63_260114_LH00793_B23GCKKLT3	tet(M)	Doxycycline, Tetracycline, Minocycline
+140ca	anginosus_C	140Ca-CMPN001x64_260114_LH00793_B23GCKKLT3	erm(B)	Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S
+140ca	anginosus_C	140Ca-CMPN001x64_260114_LH00793_B23GCKKLT3	tet(32)	Doxycycline, Tetracycline, Minocycline
+140ca	anginosus_C	140Ca-CMPN001x64_260114_LH00793_B23GCKKLT3	tet(M)	Doxycycline, Tetracycline, Minocycline
