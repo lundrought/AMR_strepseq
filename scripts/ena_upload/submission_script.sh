@@ -1,7 +1,7 @@
 #!/bin/bash
 
 USERNAME="Webin-70884"          
-PASSWORD="Stinger1-Handrail0-Dweller7-Hardwood2-Raffle2" 
+PASSWORD="x" 
 CENTER_NAME="RHGENOMICS"    
 WEBIN_JAR="./webin-cli-9.0.3.jar" 
 MANIFEST_DIR="./manifest_files"            
