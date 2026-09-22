@@ -1,0 +1,30 @@
+name: strepseq
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-base>=4.3
+  # Core tidyverse
+  - r-tidyverse
+  # Plotting extensions
+  - r-pheatmap
+  - r-patchwork
+  - r-rcolorbrewer
+  - r-ggnewscale
+  - r-ggalluvial
+  - r-ggdendro
+  - r-gridextra
+  # Phylogenetics & ecology
+  - r-ape
+  - r-phytools
+  - r-vegan
+  - bioconductor-ggtree
+  - bioconductor-ggtreeextra
+  # Data I/O
+  - r-writexl
+  # NCBI access
+  - r-rentrez
+    # VS Code / Jupyter kernel
+  - r-irkernel
+  - jupyter
